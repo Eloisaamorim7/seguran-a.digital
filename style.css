@@ -43,7 +43,7 @@ header {
 .logo {
     font-size: 2.5rem;
     font-weight: 700;
-    background: linear-gradient(90deg, #4cc9f0, #f72585);
+    background: linear-gradient(90deg, #46855e, #2fca8f);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
